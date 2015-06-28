@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorPrimary">#e5e7e6</color>
+    <color name="colorDark">#4a4a4a</color>
+    <color name="colorAccent">#f6a200</color>
+
+</resources>
